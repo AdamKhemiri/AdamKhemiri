@@ -5,5 +5,5 @@ Passionate about turning raw data into strategic insights using Power BI, DAX, 
 
 🔭 Currently building my BI portfolio on GitHub  
 🌍 Based in Tulsa, Oklahoma (UTC–06:00)  
-📫 Reach me at adam.khemiri@example.com  
+📫 Reach me at adamkhemiripro@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/adam-khemiri-560382360/)
