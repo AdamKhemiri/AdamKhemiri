@@ -12,8 +12,11 @@ I’m rebuilding older projects into modern, app-style Power BI experiences. Fir
 ## Featured Work
 - **Sales Analysis — Power BI**  
   App-like navigation with bookmarks, page tooltips, and drill-through (Units, Net Sales, Net Profit, COGS).  
-  → **Repo:** `Sales-Analysis-pbi` · *(Live demo link in the repo README)*
-
+  → **Repo:** `Sales-Analysis-pbi` ·  **Live report:** [https://app.powerbi.com/view?r=eyJrIjoiY2YyNjkxMWYtMmEzNS00MTUzLWFhZDctNTQ2MmM4MTI1MzE0IiwidCI6ImIyZDQ1OTA3LTUwOWItNDQ5Ni05YmQzLTVhNjBjN2YwZjM4MCIsImMiOjN9]
+  
+  - **Maven Airline  — Power BI**  
+ irline loyalty program analytics with app-like navigation, bookmarks, page tooltips, and drill-through (Flights Booked, Active Members, Distance Traveled, Points Issued/Redeemed, Customer Lifetime Value).  
+  → **Repo:** `Maven-Airline-Analysis-pbi` ·  **Live report:** [https://app.powerbi.com/view?r=eyJrIjoiMmVlM2ZlNTctYjU4MS00OTAxLTg4MmUtYWNkNjg1Y2Q3MGYzIiwidCI6ImIyZDQ1OTA3LTUwOWItNDQ5Ni05YmQzLTVhNjBjN2YwZjM4MCIsImMiOjN9]]
 ---
 
 ## Certifications
