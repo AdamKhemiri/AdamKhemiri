@@ -10,7 +10,7 @@ I’m rebuilding older projects into modern, app-style Power BI experiences. Fir
 ---
 
 ## Featured Work
-- **Sales Analysis — Power BI**  
+  - **Sales Analysis — Power BI**  
   App-like navigation with bookmarks, page tooltips, and drill-through (Units, Net Sales, Net Profit, COGS).  
   → **Repo:** `Sales-Analysis-pbi` ·  **Live report:** [https://app.powerbi.com/view?r=eyJrIjoiY2YyNjkxMWYtMmEzNS00MTUzLWFhZDctNTQ2MmM4MTI1MzE0IiwidCI6ImIyZDQ1OTA3LTUwOWItNDQ5Ni05YmQzLTVhNjBjN2YwZjM4MCIsImMiOjN9]
   
