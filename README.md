@@ -1,46 +1,55 @@
-# Adam Khemiri • PL-300 Data Analyst
+# Adam Khemiri — IT Support / Help Desk + Data (PL-300)
 
-Secure-minded BI & Data Analyst — **Power BI • DAX • SQL • Excel** — focused on **app-like dashboard UX**.  
-I’m rebuilding older projects into modern, app-style Power BI experiences. First up: **Sales-Analysis**. 🚀
+I’m building practical, recruiter-friendly work in **IT Support / Help Desk** (runbooks, ticket documentation, identity admin basics), and I also build **Power BI dashboards** with clean models and readable DAX.
 
-- 🌎 Tulsa, OK (UTC-06:00) · **Open to BI / Data Analyst roles**
-- ✉️ **adamkhemiripro@gmail.com** · [LinkedIn](https://www.linkedin.com/in/adam-khemiri-560382360/)
-- 🔗 Portfolio: **https://adamkhemiri.github.io**
+- 📍 Tulsa / Owasso, OK (UTC-06:00)
+- ✅ Work Authorization: EAD
+- 🗣️ English • French • Arabic
+- 🌐 Portfolio: https://adamkhemiri.github.io
+- 💼 LinkedIn: https://www.linkedin.com/in/adam-khemiri/
+- ✉️ Contact: adamkhemiripro@gmail.com
 
 ---
 
-## Featured Work
-  - **Sales Analysis — Power BI**  
-  App-like navigation with bookmarks, page tooltips, and drill-through (Units, Net Sales, Net Profit, COGS).  
-  → **Repo:** `Sales-Analysis-pbi` ·  **Live report:** [https://app.powerbi.com/view?r=eyJrIjoiY2YyNjkxMWYtMmEzNS00MTUzLWFhZDctNTQ2MmM4MTI1MzE0IiwidCI6ImIyZDQ1OTA3LTUwOWItNDQ5Ni05YmQzLTVhNjBjN2YwZjM4MCIsImMiOjN9]
-  
-  - **Maven Airline  — Power BI**  
- irline loyalty program analytics with app-like navigation, bookmarks, page tooltips, and drill-through (Flights Booked, Active Members, Distance Traveled, Points Issued/Redeemed, Customer Lifetime Value).  
-  → **Repo:** `Maven-Airline-Analysis-pbi` ·  **Live report:** [https://app.powerbi.com/view?r=eyJrIjoiMmVlM2ZlNTctYjU4MS00OTAxLTg4MmUtYWNkNjg1Y2Q3MGYzIiwidCI6ImIyZDQ1OTA3LTUwOWItNDQ5Ni05YmQzLTVhNjBjN2YwZjM4MCIsImMiOjN9]]
+## What I’m focused on right now (IT Support / Help Desk)
+I’m practicing the day-to-day fundamentals that show up in real service desk work:
+
+- Troubleshooting workflows with clear **runbooks**
+- Writing clean, consistent **ticket notes** (impact, steps, resolution, next steps)
+- Windows 10/11 support basics
+- Networking basics (DNS, IP config, connectivity tests)
+- **Microsoft Entra ID (Azure AD)** fundamentals: users, groups, roles, audit logs, MFA basics (lab evidence is redacted)
+
+### Featured IT Support repo
+- IT Support / Help Desk Portfolio (Runbooks + Tickets + Entra ID lab evidence):  
+  https://github.com/AdamKhemiri/it-support-helpdesk-portfolio
+
+---
+
+## Featured Data / BI work
+I also build Power BI projects designed for non-technical users with app-like navigation, tooltips, and drill-through.
+
+- Sales Analysis — Power BI  
+  Repo: https://github.com/AdamKhemiri/Sales-Analysis-pbi  
+  Live: https://app.powerbi.com/view?r=eyJrIjoiMjYxMGRjNTctOGQwOC00YjVhLTliNDMtYzQwYzQ2YjFiMDNiIiwidCI6ImIyZDQ1OTA3LTUwOWItNDQ5Ni05YmQzLTVhNjBjN2YwZjM4MCIsImMiOjN9
+
+- Maven Airline — Loyalty Program Analysis  
+  Repo: https://github.com/AdamKhemiri/Maven-Airline-Analysis-pbi  
+  Live: https://app.powerbi.com/view?r=eyJrIjoiMmVlM2ZlNTctYjU4MS00OTAxLTg4MmUtYWNkNjg1Y2Q3MGYzIiwidCI6ImIyZDQ1OTA3LTUwOWItNDQ5Ni05YmQzLTVhNjBjN2YwZjM4MCIsImMiOjN9
+
 ---
 
 ## Certifications
-- **Power BI – Build this UX/UI Designed Modern Desktop Report** — *Udemy* — **Issued Nov 2025**  
-  *Credential ID:* UC-6acb126f-86b3-4dbe-b4da-c361074e09bb
-
-- **Design for Microsoft Power BI** — *Udemy* — **Issued Oct 2025**
-
-- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** — *Microsoft* — **Issued Oct 2025 · Expires Oct 2026**  
-  *Credential ID:* C4D25A2A5417E78F
-
-- **Business Analysis Foundations** — *LinkedIn Learning* — **Issued Sep 2025**
-
-- **Microsoft PL-300 Exam Prep** — *Maven Analytics* — **Issued Aug 2025**  
-  *Credential ID:* 157455266
-
-- **Advanced DAX** — *Maven Analytics* — **Issued Jul 2025**  
-  *Credential ID:* 155403958
-
-- **Microsoft Power BI Data Analyst Specialization** — *Microsoft* — **Issued Apr 2025**  
-  *Credential ID:* O2D8EU1RQUDC
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- Additional Power BI / analytics training (see portfolio for details)
 
 ---
 
 ## Skills
-**Power Query (M)** · **DAX** (clean measure modeling) · **Star Schema** · **RLS**  
-Performance tuning (VertiPaq, model simplification) · **UX/UI for analytics** (guided flows, tooltips, drill-through)
+**IT Support:** Troubleshooting, ticket documentation, Windows 10/11, basic networking (DNS/DHCP/IP), Entra ID fundamentals  
+**Data / BI:** Power BI, DAX, Power Query, SQL, Excel, data modeling (star schema), dashboard UX
+
+---
+
+## Privacy note
+Any lab screenshots/logs I share are **redacted** (no tenant IDs, object IDs, emails, phone numbers, device IDs, or secrets).
